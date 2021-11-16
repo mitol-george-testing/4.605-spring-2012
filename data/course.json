@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5cf93f98-5f34-b91c-e2c3-e6b5c1371dc5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to the History and Theory of Architecture",
+  "course_description": "This course is a global-oriented survey of the history of architecture, from the prehistoric to the sixteenth century. It treats buildings and environments, including cities, in the context of the cultural and civilizational history. It offers an introduction to design principles and analysis. Being global, it aims to give the student perspective on the larger pushes and pulls that influence architecture and its meanings, whether these be economic, political, religious or climatic.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.605",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
